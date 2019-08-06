@@ -1,0 +1,19 @@
+button[disabled], input[disabled] {
+    cursor: default;
+    color: #090504;
+    border-color: #ccc;
+}
+/*#pull-left{
+    text-align: left;
+}
+#pull-right{
+    text-align: right;
+}
+@media only screen and (max-width: 768px){
+    #pull-left{
+        text-align: center;
+    }
+    #pull-right{
+        text-align: center;
+    }
+}*/
